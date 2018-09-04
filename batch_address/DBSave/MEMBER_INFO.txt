@@ -1,0 +1,2 @@
+"#","MINUM","MIID","MINAME","MIPWD","DICODE","MIEMAIL","MIDESC","MIPHONE","MIZIPCODE","MIADDRESS1","MIADDRESS2","LILEVEL"
+"1","1","remtov","김현구","1gregre","CS    ","remnanttov@gmail.com","사장","2345345345          ","234234","서울 금천 독산 926-3","102호","1"

@@ -1,0 +1,4 @@
+"#","MCNUM","MCNAME","MCSINGER","MCVENDOR","MCLIKE","MCDISLIKE","MCCREDAT","MCDESC"
+"1","1","Way Back Home","숀 SHAUN","헤피로봇레코드","199106","2862","칵스 (THE KOXX)","take"
+"2","2","Dance the Night Away","TWICE 트와이스","JYP 엔터테인먼트","117958","3284","JYP Nation","Summer Nights"
+"3","3","뚜두뚜두(DDU-DU DDU-DU)","BLACKPINK","YG엔터테인먼트","184685","7336","SQUARE ONE","SQUARE UP"
